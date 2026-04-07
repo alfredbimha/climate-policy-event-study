@@ -1,0 +1,289 @@
+event,event_date,asset,asset_name,day,AR,CAR,direction
+Biden Inauguration / Paris Rejoining,2021-01-20,ICLN,Clean Energy,-5,0.6704912220038096,0.6704912220038096,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,ICLN,Clean Energy,-4,-0.3111798869445103,0.3593113350592993,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,ICLN,Clean Energy,-3,-1.0370909099103056,-0.6777795748510063,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,ICLN,Clean Energy,-2,-5.2749127787079555,-5.9526923535589615,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,ICLN,Clean Energy,-1,1.3617306141385424,-4.590961739420419,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,ICLN,Clean Energy,0,-2.36348504044795,-6.95444677986837,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,ICLN,Clean Energy,1,3.7032469275667674,-3.2511998523016024,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,ICLN,Clean Energy,2,0.5929075619236517,-2.6582922903779505,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,ICLN,Clean Energy,3,-2.2209479624146984,-4.879240252792648,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,ICLN,Clean Energy,4,-1.3406098689764745,-6.219850121769123,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,ICLN,Clean Energy,5,-4.3686732895411655,-10.588523411310288,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,ICLN,Clean Energy,6,0.8021746493358384,-9.786348761974448,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,ICLN,Clean Energy,7,-1.7287126169687448,-11.515061378943193,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,ICLN,Clean Energy,8,-0.05167363142126957,-11.566735010364463,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,ICLN,Clean Energy,9,-0.935052566166954,-12.501787576531417,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,ICLN,Clean Energy,10,1.169357517733863,-11.332430058797554,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,XLE,Fossil Fuels,-5,3.4659291248661765,3.4659291248661765,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,XLE,Fossil Fuels,-4,-1.0486771716435799,2.4172519532225967,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,XLE,Fossil Fuels,-3,3.3956972167932236,5.81294917001582,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,XLE,Fossil Fuels,-2,-3.035953031321631,2.7769961386941886,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,XLE,Fossil Fuels,-1,1.1139257034493193,3.890921842143508,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,XLE,Fossil Fuels,0,-1.219176959911401,2.671744882232107,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,XLE,Fossil Fuels,1,-3.4920611762397282,-0.8203162940076214,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,XLE,Fossil Fuels,2,-0.041317739233810324,-0.8616340332414317,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,XLE,Fossil Fuels,3,-1.4410371242889286,-2.3026711575303604,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,XLE,Fossil Fuels,4,-1.917255846759948,-4.219927004290309,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,XLE,Fossil Fuels,5,1.6540397146336745,-2.5658872896566343,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,XLE,Fossil Fuels,6,0.19592035626349558,-2.3699669333931386,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,XLE,Fossil Fuels,7,-0.9030138021858054,-3.272980735578944,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,XLE,Fossil Fuels,8,-1.2061925198412609,-4.479173255420205,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,XLE,Fossil Fuels,9,-0.5408946802215859,-5.020067935641791,green_positive
+Biden Inauguration / Paris Rejoining,2021-01-20,XLE,Fossil Fuels,10,4.145807591639499,-0.874260344002292,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,ICLN,Clean Energy,-5,-2.9564039819082124,-2.9564039819082124,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,ICLN,Clean Energy,-4,2.9278772451925428,-0.02852673671566963,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,ICLN,Clean Energy,-3,-1.5480478625443654,-1.576574599260035,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,ICLN,Clean Energy,-2,0.3832126123450387,-1.1933619869149963,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,ICLN,Clean Energy,-1,0.6386575890350574,-0.5547043978799389,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,ICLN,Clean Energy,0,3.971441163573475,3.4167367656935363,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,ICLN,Clean Energy,1,0.34642345695084087,3.763160222644377,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,ICLN,Clean Energy,2,0.3236576473354587,4.086817869979836,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,ICLN,Clean Energy,3,-0.13532159577628033,3.9514962742035555,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,ICLN,Clean Energy,4,-1.8573152145790164,2.094181059624539,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,ICLN,Clean Energy,5,-2.374529139668735,-0.2803480800441962,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,ICLN,Clean Energy,6,-0.6591373581786566,-0.9394854382228528,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,ICLN,Clean Energy,7,-1.6057544195887394,-2.545239857811592,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,ICLN,Clean Energy,8,-3.0775851707778945,-5.622825028589487,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,ICLN,Clean Energy,9,-0.028020964494752165,-5.650845993084239,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,ICLN,Clean Energy,10,-2.401202113071749,-8.052048106155988,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,XLE,Fossil Fuels,-5,-2.3584893626549928,-2.3584893626549928,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,XLE,Fossil Fuels,-4,-1.4519434384313836,-3.8104328010863764,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,XLE,Fossil Fuels,-3,0.2508679545386946,-3.5595648465476817,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,XLE,Fossil Fuels,-2,-2.0344513842732113,-5.594016230820893,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,XLE,Fossil Fuels,-1,-0.12135306690684922,-5.715369297727742,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,XLE,Fossil Fuels,0,-0.31123486532660083,-6.026604163054342,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,XLE,Fossil Fuels,1,-0.6453692957246588,-6.671973458779001,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,XLE,Fossil Fuels,2,0.17348674595190033,-6.4984867128271,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,XLE,Fossil Fuels,3,0.9867486787654194,-5.511738034061681,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,XLE,Fossil Fuels,4,3.1803012170043647,-2.331436817057316,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,XLE,Fossil Fuels,5,0.09566377971756945,-2.2357730373397464,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,XLE,Fossil Fuels,6,-2.001920460064086,-4.237693497403832,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,XLE,Fossil Fuels,7,2.210646331104555,-2.027047166299277,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,XLE,Fossil Fuels,8,0.566768099175874,-1.4602790671234032,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,XLE,Fossil Fuels,9,2.896526141895057,1.436247074771654,green_positive
+Biden Climate Summit 2030 Target,2021-04-22,XLE,Fossil Fuels,10,-0.6964564912952858,0.7397905834763683,green_positive
+COP26 Glasgow Opens,2021-11-01,ICLN,Clean Energy,-5,0.9930280167377343,0.9930280167377343,green_positive
+COP26 Glasgow Opens,2021-11-01,ICLN,Clean Energy,-4,-0.7458183678608575,0.2472096488768768,green_positive
+COP26 Glasgow Opens,2021-11-01,ICLN,Clean Energy,-3,3.3600834872812135,3.6072931361580904,green_positive
+COP26 Glasgow Opens,2021-11-01,ICLN,Clean Energy,-2,2.545025285727239,6.1523184218853295,green_positive
+COP26 Glasgow Opens,2021-11-01,ICLN,Clean Energy,-1,-0.33577024345022205,5.816548178435108,green_positive
+COP26 Glasgow Opens,2021-11-01,ICLN,Clean Energy,0,1.8875301018263488,7.704078280261457,green_positive
+COP26 Glasgow Opens,2021-11-01,ICLN,Clean Energy,1,-2.2796085231346663,5.42446975712679,green_positive
+COP26 Glasgow Opens,2021-11-01,ICLN,Clean Energy,2,-2.8683957942185234,2.5560739629082665,green_positive
+COP26 Glasgow Opens,2021-11-01,ICLN,Clean Energy,3,-0.949645427025648,1.6064285358826185,green_positive
+COP26 Glasgow Opens,2021-11-01,ICLN,Clean Energy,4,-1.577785135505183,0.028643400377435402,green_positive
+COP26 Glasgow Opens,2021-11-01,ICLN,Clean Energy,5,1.7258145399273588,1.7544579403047942,green_positive
+COP26 Glasgow Opens,2021-11-01,ICLN,Clean Energy,6,-0.216230255147645,1.5382276851571492,green_positive
+COP26 Glasgow Opens,2021-11-01,ICLN,Clean Energy,7,-0.6861981446054041,0.8520295405517452,green_positive
+COP26 Glasgow Opens,2021-11-01,ICLN,Clean Energy,8,2.5843448704199403,3.4363744109716854,green_positive
+COP26 Glasgow Opens,2021-11-01,ICLN,Clean Energy,9,0.12040539164821629,3.556779802619902,green_positive
+COP26 Glasgow Opens,2021-11-01,ICLN,Clean Energy,10,-1.2267330807317705,2.3300467218881313,green_positive
+COP26 Glasgow Opens,2021-11-01,XLE,Fossil Fuels,-5,0.7694449920502956,0.7694449920502956,green_positive
+COP26 Glasgow Opens,2021-11-01,XLE,Fossil Fuels,-4,0.4325878916308832,1.2020328836811789,green_positive
+COP26 Glasgow Opens,2021-11-01,XLE,Fossil Fuels,-3,-2.409162676806819,-1.20712979312564,green_positive
+COP26 Glasgow Opens,2021-11-01,XLE,Fossil Fuels,-2,-0.4944523491216226,-1.7015821422472626,green_positive
+COP26 Glasgow Opens,2021-11-01,XLE,Fossil Fuels,-1,-0.9405516836034482,-2.6421338258507108,green_positive
+COP26 Glasgow Opens,2021-11-01,XLE,Fossil Fuels,0,1.4640931244172786,-1.1780407014334322,green_positive
+COP26 Glasgow Opens,2021-11-01,XLE,Fossil Fuels,1,-1.4717171691149242,-2.649757870548356,green_positive
+COP26 Glasgow Opens,2021-11-01,XLE,Fossil Fuels,2,-1.6091196296771617,-4.258877500225518,green_positive
+COP26 Glasgow Opens,2021-11-01,XLE,Fossil Fuels,3,-0.46855098200781164,-4.7274284822333295,green_positive
+COP26 Glasgow Opens,2021-11-01,XLE,Fossil Fuels,4,0.8389078583716459,-3.8885206238616834,green_positive
+COP26 Glasgow Opens,2021-11-01,XLE,Fossil Fuels,5,0.7672891248384572,-3.121231499023226,green_positive
+COP26 Glasgow Opens,2021-11-01,XLE,Fossil Fuels,6,0.7771312088971577,-2.3441002901260686,green_positive
+COP26 Glasgow Opens,2021-11-01,XLE,Fossil Fuels,7,-1.7270331598148259,-4.071133449940895,green_positive
+COP26 Glasgow Opens,2021-11-01,XLE,Fossil Fuels,8,0.30838923013432573,-3.762744219806569,green_positive
+COP26 Glasgow Opens,2021-11-01,XLE,Fossil Fuels,9,-1.194412206327789,-4.957156426134358,green_positive
+COP26 Glasgow Opens,2021-11-01,XLE,Fossil Fuels,10,0.7546244544552139,-4.202531971679145,green_positive
+Inflation Reduction Act Signed,2022-08-16,ICLN,Clean Energy,-5,0.48506489360387484,0.48506489360387484,green_positive
+Inflation Reduction Act Signed,2022-08-16,ICLN,Clean Energy,-4,2.2308813885965577,2.7159462822004325,green_positive
+Inflation Reduction Act Signed,2022-08-16,ICLN,Clean Energy,-3,-1.6493252451659346,1.066621037034498,green_positive
+Inflation Reduction Act Signed,2022-08-16,ICLN,Clean Energy,-2,-0.6583697307238328,0.4082513063106652,green_positive
+Inflation Reduction Act Signed,2022-08-16,ICLN,Clean Energy,-1,-0.7537595012010144,-0.34550819489034923,green_positive
+Inflation Reduction Act Signed,2022-08-16,ICLN,Clean Energy,0,-1.7084419225730514,-2.0539501174634007,green_positive
+Inflation Reduction Act Signed,2022-08-16,ICLN,Clean Energy,1,0.03596154803581686,-2.017988569427584,green_positive
+Inflation Reduction Act Signed,2022-08-16,ICLN,Clean Energy,2,-0.2972141618178653,-2.3152027312454493,green_positive
+Inflation Reduction Act Signed,2022-08-16,ICLN,Clean Energy,3,-1.776522146167054,-4.091724877412503,green_positive
+Inflation Reduction Act Signed,2022-08-16,ICLN,Clean Energy,4,0.16086771908456643,-3.930857158327936,green_positive
+Inflation Reduction Act Signed,2022-08-16,ICLN,Clean Energy,5,0.16480037479279955,-3.7660567835351366,green_positive
+Inflation Reduction Act Signed,2022-08-16,ICLN,Clean Energy,6,1.4193531492803848,-2.3467036342547516,green_positive
+Inflation Reduction Act Signed,2022-08-16,ICLN,Clean Energy,7,0.49941843282747267,-1.847285201427279,green_positive
+Inflation Reduction Act Signed,2022-08-16,ICLN,Clean Energy,8,0.6611089619671597,-1.1861762394601192,green_positive
+Inflation Reduction Act Signed,2022-08-16,ICLN,Clean Energy,9,-0.7332836464381567,-1.9194598858982759,green_positive
+Inflation Reduction Act Signed,2022-08-16,ICLN,Clean Energy,10,-0.1983896049920424,-2.1178494908903183,green_positive
+Inflation Reduction Act Signed,2022-08-16,XLE,Fossil Fuels,-5,1.8735640536423062,1.8735640536423062,green_positive
+Inflation Reduction Act Signed,2022-08-16,XLE,Fossil Fuels,-4,-0.5865194324004038,1.2870446212419022,green_positive
+Inflation Reduction Act Signed,2022-08-16,XLE,Fossil Fuels,-3,3.2837134662054708,4.570758087447373,green_positive
+Inflation Reduction Act Signed,2022-08-16,XLE,Fossil Fuels,-2,-0.31922262954587355,4.2515354579015,green_positive
+Inflation Reduction Act Signed,2022-08-16,XLE,Fossil Fuels,-1,-2.3064652452083387,1.9450702126931616,green_positive
+Inflation Reduction Act Signed,2022-08-16,XLE,Fossil Fuels,0,-0.44638547341711343,1.4986847392760483,green_positive
+Inflation Reduction Act Signed,2022-08-16,XLE,Fossil Fuels,1,1.1458003268477153,2.6444850661237638,green_positive
+Inflation Reduction Act Signed,2022-08-16,XLE,Fossil Fuels,2,2.3847696215622003,5.029254687685964,green_positive
+Inflation Reduction Act Signed,2022-08-16,XLE,Fossil Fuels,3,0.6625270213852806,5.691781709071245,green_positive
+Inflation Reduction Act Signed,2022-08-16,XLE,Fossil Fuels,4,0.9353569030647921,6.627138612136037,green_positive
+Inflation Reduction Act Signed,2022-08-16,XLE,Fossil Fuels,5,3.584890915348041,10.212029527484079,green_positive
+Inflation Reduction Act Signed,2022-08-16,XLE,Fossil Fuels,6,0.9375001983702482,11.149529725854327,green_positive
+Inflation Reduction Act Signed,2022-08-16,XLE,Fossil Fuels,7,-0.1466313516608626,11.002898374193464,green_positive
+Inflation Reduction Act Signed,2022-08-16,XLE,Fossil Fuels,8,0.726493313568404,11.729391687761868,green_positive
+Inflation Reduction Act Signed,2022-08-16,XLE,Fossil Fuels,9,1.7846951810313434,13.514086868793212,green_positive
+Inflation Reduction Act Signed,2022-08-16,XLE,Fossil Fuels,10,-2.904974594878754,10.609112273914459,green_positive
+SCOTUS West Virginia v EPA,2022-06-30,ICLN,Clean Energy,-5,0.7549148777464949,0.7549148777464949,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,ICLN,Clean Energy,-4,-2.8712603474140566,-2.1163454696675617,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,ICLN,Clean Energy,-3,1.648673532176114,-0.46767193749144775,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,ICLN,Clean Energy,-2,-0.7376993316739691,-1.2053712691654168,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,ICLN,Clean Energy,-1,-2.259379716812235,-3.464750985977652,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,ICLN,Clean Energy,0,2.4054980577636673,-1.0592529282139846,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,ICLN,Clean Energy,1,0.20273496380373213,-0.8565179644102525,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,ICLN,Clean Energy,2,-1.778774140541213,-2.6352921049514655,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,ICLN,Clean Energy,3,-0.8922505048790177,-3.5275426098304834,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,ICLN,Clean Energy,4,2.3811943044894885,-1.1463483053409949,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,ICLN,Clean Energy,5,1.2175633570366273,0.07121505169563247,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,ICLN,Clean Energy,6,-1.6852736527966874,-1.614058601101055,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,ICLN,Clean Energy,7,-1.0294743514190139,-2.6435329525200686,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,ICLN,Clean Energy,8,0.9890268467434847,-1.654506105776584,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,ICLN,Clean Energy,9,-0.29326418854367226,-1.9477702943202562,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,ICLN,Clean Energy,10,-3.75359816111986,-5.701368455440116,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,XLE,Fossil Fuels,-5,-4.676103954387601,-4.676103954387601,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,XLE,Fossil Fuels,-4,-0.7898543029752876,-5.465958257362889,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,XLE,Fossil Fuels,-3,2.747792087387765,-2.718166169975124,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,XLE,Fossil Fuels,-2,3.4568565552041375,0.7386903852290136,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,XLE,Fossil Fuels,-1,-3.8478734789693845,-3.109183093740371,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,XLE,Fossil Fuels,0,-2.033204225451469,-5.14238731919184,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,XLE,Fossil Fuels,1,0.5436603457572642,-4.598726973434577,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,XLE,Fossil Fuels,2,-4.510143697453374,-9.108870670887951,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,XLE,Fossil Fuels,3,-2.265867178273002,-11.374737849160953,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,XLE,Fossil Fuels,4,2.3585497196750875,-9.016188129485865,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,XLE,Fossil Fuels,5,-0.35277795067450035,-9.368966080160366,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,XLE,Fossil Fuels,6,-0.68015098012684,-10.049117060287205,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,XLE,Fossil Fuels,7,-1.8306809699916338,-11.879798030278838,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,XLE,Fossil Fuels,8,-0.22313815504523213,-12.10293618532407,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,XLE,Fossil Fuels,9,-2.1289238001596313,-14.231859985483702,brown_positive
+SCOTUS West Virginia v EPA,2022-06-30,XLE,Fossil Fuels,10,0.2076646751924902,-14.024195310291212,brown_positive
+IPCC AR6 Synthesis Report,2023-03-20,ICLN,Clean Energy,-5,0.7820788536734415,0.7820788536734415,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,ICLN,Clean Energy,-4,-0.4018261347713665,0.380252718902075,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,ICLN,Clean Energy,-3,-1.6525661354650296,-1.2723134165629546,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,ICLN,Clean Energy,-2,-1.8995586172936547,-3.1718720338566095,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,ICLN,Clean Energy,-1,-2.1585535537532374,-5.330425587609847,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,ICLN,Clean Energy,0,0.6466062862771343,-4.683819301332712,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,ICLN,Clean Energy,1,1.0769131448148188,-3.6069061565178933,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,ICLN,Clean Energy,2,0.21719436571813233,-3.389711790799761,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,ICLN,Clean Energy,3,0.6027013436669497,-2.787010447132811,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,ICLN,Clean Energy,4,-0.9447331194394217,-3.731743566572233,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,ICLN,Clean Energy,5,0.04524336530739152,-3.6865002012648413,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,ICLN,Clean Energy,6,0.34230000254333404,-3.3442001987215075,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,ICLN,Clean Energy,7,0.6569365818669632,-2.687263616854544,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,ICLN,Clean Energy,8,1.2058163196226013,-1.4814472972319428,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,ICLN,Clean Energy,9,0.2777853562300585,-1.2036619410018843,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,ICLN,Clean Energy,10,-1.3694714135518344,-2.5731333545537187,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,XLE,Fossil Fuels,-5,-1.989750578602357,-1.989750578602357,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,XLE,Fossil Fuels,-4,-0.4693013727362849,-2.459051951338642,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,XLE,Fossil Fuels,-3,-5.042545385702707,-7.501597337041349,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,XLE,Fossil Fuels,-2,-0.4577026902371508,-7.9593000272785,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,XLE,Fossil Fuels,-1,-0.6411942146819558,-8.600494241960456,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,XLE,Fossil Fuels,0,1.1104847204257848,-7.490009521534672,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,XLE,Fossil Fuels,1,2.2359094124961496,-5.254100109038522,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,XLE,Fossil Fuels,2,-0.7434650849973434,-5.997565194035866,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,XLE,Fossil Fuels,3,-1.6819484005886118,-7.679513594624478,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,XLE,Fossil Fuels,4,-0.22790931232564904,-7.907422906950127,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,XLE,Fossil Fuels,5,1.892762216302852,-6.0146606906472755,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,XLE,Fossil Fuels,6,1.6685762716191546,-4.346084419028121,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,XLE,Fossil Fuels,7,0.09152118704175738,-4.2545632319863635,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,XLE,Fossil Fuels,8,-0.11543363457872985,-4.369996866565093,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,XLE,Fossil Fuels,9,-0.5580051609935252,-4.928002027558618,green_positive
+IPCC AR6 Synthesis Report,2023-03-20,XLE,Fossil Fuels,10,4.047042888520697,-0.8809591390379206,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,ICLN,Clean Energy,-5,-0.7658954154131323,-0.7658954154131323,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,ICLN,Clean Energy,-4,1.6986813182740605,0.9327859028609282,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,ICLN,Clean Energy,-3,0.27566281813836513,1.2084487209992933,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,ICLN,Clean Energy,-2,-1.2148385437814972,-0.006389822782203902,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,ICLN,Clean Energy,-1,0.8970829876517574,0.8906931648695535,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,ICLN,Clean Energy,0,1.5311421546758526,2.421835319545406,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,ICLN,Clean Energy,1,0.2457349458408724,2.6675702653862783,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,ICLN,Clean Energy,2,-0.32853356445570137,2.339036700930577,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,ICLN,Clean Energy,3,-0.948583247636987,1.3904534532935897,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,ICLN,Clean Energy,4,-0.04133244020237514,1.3491210130912146,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,ICLN,Clean Energy,5,-0.3924227891076908,0.9566982239835238,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,ICLN,Clean Energy,6,-0.1949040438335751,0.7617941801499487,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,ICLN,Clean Energy,7,0.5499766049620679,1.3117707851120166,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,ICLN,Clean Energy,8,-3.5909056608441485,-2.279134875732132,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,ICLN,Clean Energy,9,-0.9845566830423387,-3.263691558774471,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,ICLN,Clean Energy,10,0.012498061501332147,-3.251193497273139,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,XLE,Fossil Fuels,-5,-0.8985233282168216,-0.8985233282168216,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,XLE,Fossil Fuels,-4,0.5044972972920084,-0.39402603092481314,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,XLE,Fossil Fuels,-3,-0.6749002438716888,-1.0689262747965018,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,XLE,Fossil Fuels,-2,0.7413236794647323,-0.3276025953317695,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,XLE,Fossil Fuels,-1,-0.8553286558731461,-1.1829312512049155,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,XLE,Fossil Fuels,0,-0.35498085355084497,-1.5379121047557605,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,XLE,Fossil Fuels,1,-0.28330642420935526,-1.8212185289651157,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,XLE,Fossil Fuels,2,0.26301989354280153,-1.5581986354223143,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,XLE,Fossil Fuels,3,0.8925645459568032,-0.6656340894655111,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,XLE,Fossil Fuels,4,0.39134404656136335,-0.2742900429041477,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,XLE,Fossil Fuels,5,2.371373006932816,2.097082964028668,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,XLE,Fossil Fuels,6,-0.3554842544300642,1.7415987095986036,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,XLE,Fossil Fuels,7,-1.9295019349299383,-0.18790322533133463,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,XLE,Fossil Fuels,8,-2.0455158223856635,-2.233419047716998,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,XLE,Fossil Fuels,9,0.8081727477056491,-1.4252463000113489,green_positive
+Biden UN Climate Ambition Summit,2023-09-20,XLE,Fossil Fuels,10,-3.7570625247377527,-5.182308824749102,green_positive
+Biden LNG Export Pause,2024-01-26,ICLN,Clean Energy,-5,-1.744520376946638,-1.744520376946638,green_positive
+Biden LNG Export Pause,2024-01-26,ICLN,Clean Energy,-4,0.9799217361869814,-0.7645986407596566,green_positive
+Biden LNG Export Pause,2024-01-26,ICLN,Clean Energy,-3,1.0555905127607705,0.290991872001114,green_positive
+Biden LNG Export Pause,2024-01-26,ICLN,Clean Energy,-2,-0.7979886079276208,-0.5069967359265068,green_positive
+Biden LNG Export Pause,2024-01-26,ICLN,Clean Energy,-1,-0.13124811300818795,-0.6382448489346948,green_positive
+Biden LNG Export Pause,2024-01-26,ICLN,Clean Energy,0,-0.42552483626615345,-1.0637696852008482,green_positive
+Biden LNG Export Pause,2024-01-26,ICLN,Clean Energy,1,0.4778078252476248,-0.5859618599532235,green_positive
+Biden LNG Export Pause,2024-01-26,ICLN,Clean Energy,2,-1.0757765094350653,-1.6617383693882888,green_positive
+Biden LNG Export Pause,2024-01-26,ICLN,Clean Energy,3,2.5677501408986654,0.9060117715103766,green_positive
+Biden LNG Export Pause,2024-01-26,ICLN,Clean Energy,4,1.3665378895804452,2.272549661090822,green_positive
+Biden LNG Export Pause,2024-01-26,ICLN,Clean Energy,5,-3.279005758145367,-1.0064560970545453,green_positive
+Biden LNG Export Pause,2024-01-26,ICLN,Clean Energy,6,-1.3558978498756837,-2.362353946930229,green_positive
+Biden LNG Export Pause,2024-01-26,ICLN,Clean Energy,7,1.5825030466331982,-0.7798509002970309,green_positive
+Biden LNG Export Pause,2024-01-26,ICLN,Clean Energy,8,1.464571247742109,0.684720347445078,green_positive
+Biden LNG Export Pause,2024-01-26,ICLN,Clean Energy,9,-0.3284583062232477,0.35626204122183036,green_positive
+Biden LNG Export Pause,2024-01-26,ICLN,Clean Energy,10,0.8553347994330258,1.211596840654856,green_positive
+Biden LNG Export Pause,2024-01-26,XLE,Fossil Fuels,-5,-0.11334103529168998,-0.11334103529168998,green_positive
+Biden LNG Export Pause,2024-01-26,XLE,Fossil Fuels,-4,0.3511544876064493,0.2378134523147593,green_positive
+Biden LNG Export Pause,2024-01-26,XLE,Fossil Fuels,-3,0.15630569629233276,0.3941191486070921,green_positive
+Biden LNG Export Pause,2024-01-26,XLE,Fossil Fuels,-2,1.4349132560661892,1.8290324046732813,green_positive
+Biden LNG Export Pause,2024-01-26,XLE,Fossil Fuels,-1,2.068381390499021,3.8974137951723025,green_positive
+Biden LNG Export Pause,2024-01-26,XLE,Fossil Fuels,0,0.8531593119014368,4.750573107073739,green_positive
+Biden LNG Export Pause,2024-01-26,XLE,Fossil Fuels,1,-0.3985839685614528,4.351989138512287,green_positive
+Biden LNG Export Pause,2024-01-26,XLE,Fossil Fuels,2,1.1232158458484542,5.475204984360741,green_positive
+Biden LNG Export Pause,2024-01-26,XLE,Fossil Fuels,3,-1.1595180668917688,4.315686917468972,green_positive
+Biden LNG Export Pause,2024-01-26,XLE,Fossil Fuels,4,-0.47502812159417895,3.840658795874793,green_positive
+Biden LNG Export Pause,2024-01-26,XLE,Fossil Fuels,5,-0.21684430232529558,3.6238144935494976,green_positive
+Biden LNG Export Pause,2024-01-26,XLE,Fossil Fuels,6,-0.0410465820004903,3.5827679115490074,green_positive
+Biden LNG Export Pause,2024-01-26,XLE,Fossil Fuels,7,0.269381717999461,3.8521496295484683,green_positive
+Biden LNG Export Pause,2024-01-26,XLE,Fossil Fuels,8,-0.0697904833679984,3.78235914618047,green_positive
+Biden LNG Export Pause,2024-01-26,XLE,Fossil Fuels,9,1.0668717289021634,4.849230875082633,green_positive
+Biden LNG Export Pause,2024-01-26,XLE,Fossil Fuels,10,-1.7184477270908225,3.130783147991811,green_positive
+SEC Climate Disclosure Rule,2024-03-06,ICLN,Clean Energy,-5,-0.6339098866923502,-0.6339098866923502,green_positive
+SEC Climate Disclosure Rule,2024-03-06,ICLN,Clean Energy,-4,1.4029347300778752,0.769024843385525,green_positive
+SEC Climate Disclosure Rule,2024-03-06,ICLN,Clean Energy,-3,0.45976110110276536,1.2287859444882905,green_positive
+SEC Climate Disclosure Rule,2024-03-06,ICLN,Clean Energy,-2,-1.1492521058560379,0.07953383863225261,green_positive
+SEC Climate Disclosure Rule,2024-03-06,ICLN,Clean Energy,-1,1.4491944919126334,1.528728330544886,green_positive
+SEC Climate Disclosure Rule,2024-03-06,ICLN,Clean Energy,0,1.0230759796592181,2.551804310204104,green_positive
+SEC Climate Disclosure Rule,2024-03-06,ICLN,Clean Energy,1,0.15272825464934492,2.704532564853449,green_positive
+SEC Climate Disclosure Rule,2024-03-06,ICLN,Clean Energy,2,1.635659080093384,4.340191644946833,green_positive
+SEC Climate Disclosure Rule,2024-03-06,ICLN,Clean Energy,3,0.24920973260786544,4.589401377554698,green_positive
+SEC Climate Disclosure Rule,2024-03-06,ICLN,Clean Energy,4,-3.9979553989701038,0.5914459785845945,green_positive
+SEC Climate Disclosure Rule,2024-03-06,ICLN,Clean Energy,5,-1.2438695089378171,-0.6524235303532226,green_positive
+SEC Climate Disclosure Rule,2024-03-06,ICLN,Clean Energy,6,-0.8436056515292717,-1.4960291818824945,green_positive
+SEC Climate Disclosure Rule,2024-03-06,ICLN,Clean Energy,7,0.6056706489349323,-0.8903585329475622,green_positive
+SEC Climate Disclosure Rule,2024-03-06,ICLN,Clean Energy,8,-0.08724046459120449,-0.9775989975387667,green_positive
+SEC Climate Disclosure Rule,2024-03-06,ICLN,Clean Energy,9,-1.0714168555624033,-2.04901585310117,green_positive
+SEC Climate Disclosure Rule,2024-03-06,ICLN,Clean Energy,10,1.1216252795234876,-0.9273905735776824,green_positive
+SEC Climate Disclosure Rule,2024-03-06,XLE,Fossil Fuels,-5,-0.057477697054477195,-0.057477697054477195,green_positive
+SEC Climate Disclosure Rule,2024-03-06,XLE,Fossil Fuels,-4,0.41478907694255607,0.3573113798880789,green_positive
+SEC Climate Disclosure Rule,2024-03-06,XLE,Fossil Fuels,-3,0.8286557319344016,1.1859671118224804,green_positive
+SEC Climate Disclosure Rule,2024-03-06,XLE,Fossil Fuels,-2,-0.9432724778067135,0.24269463401576685,green_positive
+SEC Climate Disclosure Rule,2024-03-06,XLE,Fossil Fuels,-1,1.2614702878293378,1.5041649218451045,green_positive
+SEC Climate Disclosure Rule,2024-03-06,XLE,Fossil Fuels,0,0.17233834862930994,1.6765032704744145,green_positive
+SEC Climate Disclosure Rule,2024-03-06,XLE,Fossil Fuels,1,0.49696039545980797,2.1734636659342224,green_positive
+SEC Climate Disclosure Rule,2024-03-06,XLE,Fossil Fuels,2,0.6981472119993148,2.871610877933537,green_positive
+SEC Climate Disclosure Rule,2024-03-06,XLE,Fossil Fuels,3,1.1472523499993308,4.018863227932868,green_positive
+SEC Climate Disclosure Rule,2024-03-06,XLE,Fossil Fuels,4,-0.5420764791729663,3.4767867487599013,green_positive
+SEC Climate Disclosure Rule,2024-03-06,XLE,Fossil Fuels,5,1.7353657157948372,5.212152464554738,green_positive
+SEC Climate Disclosure Rule,2024-03-06,XLE,Fossil Fuels,6,1.1932638685333299,6.405416333088068,green_positive
+SEC Climate Disclosure Rule,2024-03-06,XLE,Fossil Fuels,7,0.6792924193998073,7.084708752487876,green_positive
+SEC Climate Disclosure Rule,2024-03-06,XLE,Fossil Fuels,8,0.1689947658840227,7.253703518371898,green_positive
+SEC Climate Disclosure Rule,2024-03-06,XLE,Fossil Fuels,9,0.9752823882522413,8.228985906624139,green_positive
+SEC Climate Disclosure Rule,2024-03-06,XLE,Fossil Fuels,10,-0.4606530753888508,7.768332831235289,green_positive

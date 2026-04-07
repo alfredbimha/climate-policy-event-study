@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Understanding Event Studies</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap');
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'DM Sans',sans-serif;line-height:1.7;color:#1a1a2e;background:#fafafa}
+.hero{background:linear-gradient(135deg,#00b894,#00cec9);padding:60px 20px;text-align:center;color:#fff}
+.hero h1{font-family:'DM Serif Display',serif;font-size:2.2rem;margin-bottom:10px}
+.hero p{font-size:1.1rem;opacity:.9;max-width:650px;margin:0 auto}
+.container{max-width:900px;margin:0 auto;padding:30px 20px 60px}
+.card{background:#fff;border-radius:14px;padding:35px;margin-bottom:25px;box-shadow:0 2px 20px rgba(0,0,0,.06);border:1px solid #eee}
+.card h2{font-family:'DM Serif Display',serif;font-size:1.5rem;color:#00b894;margin-bottom:15px;padding-bottom:10px;border-bottom:2px solid #f0f0f0}
+.card h3{font-size:1.05rem;color:#00cec9;margin:20px 0 8px}
+p,.li-text{color:#444;margin-bottom:12px;font-size:.95rem}
+.steps{display:flex;gap:12px;flex-wrap:wrap;margin:20px 0}
+.step{flex:1;min-width:130px;padding:18px 12px;border-radius:10px;text-align:center;color:#fff;font-weight:600;font-size:.85rem}
+.step .num{font-size:1.8rem;display:block;margin-bottom:5px}
+.formula{background:#f8f9ff;border-left:4px solid #00b894;padding:18px 20px;border-radius:0 10px 10px 0;margin:15px 0;font-family:monospace;font-size:.9rem;overflow-x:auto}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:15px;margin:15px 0}
+.grid3{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin:15px 0}
+.mini{padding:18px;border-radius:10px;border:1px solid #eee;background:#fafbff}
+.mini h4{font-size:.95rem;color:#00b894;margin-bottom:8px}
+.mini p{font-size:.85rem;margin-bottom:0}
+.tag{display:inline-block;padding:3px 10px;border-radius:12px;font-size:.8rem;font-weight:600;margin:2px}
+.tag-green{background:#d4edda;color:#155724}
+.tag-red{background:#f8d7da;color:#721c24}
+.tag-blue{background:#d1ecf1;color:#0c5460}
+.tag-yellow{background:#fff3cd;color:#856404}
+.bar-chart{margin:15px 0}
+.bar-row{display:flex;align-items:center;margin:6px 0}
+.bar-label{width:140px;font-size:.85rem;font-weight:500;text-align:right;padding-right:12px}
+.bar{height:24px;border-radius:4px;display:flex;align-items:center;padding-left:8px;font-size:.75rem;color:#fff;font-weight:600;transition:width .5s}
+.insight{background:linear-gradient(135deg,#00b89411,#00cec911);border:1px solid #00b89433;border-radius:10px;padding:18px;margin:15px 0}
+.insight strong{color:#00b894}
+.footer{text-align:center;padding:30px;color:#999;font-size:.85rem}
+</style>
+</head>
+<body>
+<div class="hero">
+<h1>Understanding Event Studies</h1>
+<p>How to measure the market impact of climate policy announcements.</p>
+</div>
+<div class="container">
+
+<div class="card">
+<h2>The Event Study Method</h2>
+<p>An event study asks: "Did this event change stock prices beyond what we'd normally expect?"</p>
+<div class="steps">
+<div class="step" style="background:#00b894"><span class="num">1</span>Estimate "normal" returns</div>
+<div class="step" style="background:#0984e3"><span class="num">2</span>Observe actual returns</div>
+<div class="step" style="background:#e17055"><span class="num">3</span>Subtract: Abnormal Return</div>
+<div class="step" style="background:#6c5ce7"><span class="num">4</span>Accumulate (CAR)</div>
+</div>
+<div class="formula">Abnormal Return = Actual Return − Expected Return (from market model)</div>
+<div class="formula">CAR(t₁, t₂) = Sum of daily abnormal returns from day t₁ to t₂</div>
+</div>
+
+<div class="card">
+<h2>Our Climate Events</h2>
+<p>We study 9 major climate policy announcements (2021–2024) and measure their impact on green vs brown stocks:</p>
+<div class="bar-chart">
+<div class="bar-row"><div class="bar-label">Biden Inauguration</div><div class="bar" style="width:70%;background:#00b894">Pro-green</div></div>
+<div class="bar-row"><div class="bar-label">IRA Signed</div><div class="bar" style="width:90%;background:#00b894">Strong pro-green</div></div>
+<div class="bar-row"><div class="bar-label">WV v EPA (SCOTUS)</div><div class="bar" style="width:60%;background:#e74c3c">Pro-fossil</div></div>
+<div class="bar-row"><div class="bar-label">SEC Climate Rule</div><div class="bar" style="width:75%;background:#00b894">Pro-green</div></div>
+</div>
+<div class="insight"><strong>Key finding:</strong> Green stocks show positive abnormal returns around pro-climate policies, while fossil fuel stocks respond differently — confirming that climate policy is a priced risk.</div>
+</div>
+
+</div>
+<div class="footer">Part of a 20-project Sustainable Finance Research Portfolio</div>
+</body>
+</html>
